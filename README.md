@@ -124,7 +124,7 @@ This dataset intentionally includes both valid and invalid records to validate p
 
 The **BetterCare** raw partner **CSV file** was ingested into a structured raw table with individual columns such as subscriber_id, first_name, last_name, date_of_birth, email, and phone.
 
-<img width="996" height="286" alt="image" src="https://github.com/user-attachments/assets/29b30619-1024-4282-b5fd-8ed4f4e3f4d7" />
+<img width="500" height="286" alt="image" src="https://github.com/user-attachments/assets/29b30619-1024-4282-b5fd-8ed4f4e3f4d7" />
 
 
 This dataset includes only valid records to validate transformation, standardization, and error handling logic within the pipeline.
